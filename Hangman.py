@@ -1,7 +1,7 @@
 import random
 
 def draw(case_number):
-    if(case_number == 0):
+    if case_number == 0:
         print()
         print("  ------------")
         print("  |          |")
@@ -21,7 +21,7 @@ def draw(case_number):
         print()
         print()
         
-    if (case_number == 1):
+    if case_number == 1:
         print()
         print("  ------------")
         print("  |          |")
@@ -41,7 +41,7 @@ def draw(case_number):
         print()
         print()
         
-    if(case_number == 2):
+    if case_number == 2:
         print()
         print("  ------------")
         print("  |          |")
@@ -61,7 +61,7 @@ def draw(case_number):
         print()
         print()
         
-    if(case_number == 3):
+    if case_number == 3:
         print()
         print("  ------------")
         print("  |          |")
@@ -81,7 +81,7 @@ def draw(case_number):
         print()
         print()
         
-    if(case_number == 4):
+    if case_number == 4:
         print()
         print("  ------------")
         print("  |          |")
@@ -101,7 +101,7 @@ def draw(case_number):
         print()
         print()
         
-    if(case_number == 5):
+    if case_number == 5:
         print()
         print("  ------------")
         print("  |          |")
@@ -121,7 +121,7 @@ def draw(case_number):
         print()
         print()
 
-    if(case_number == 6):
+    if case_number == 6:
         print()
         print("  ------------")
         print("  |          |")
